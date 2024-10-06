@@ -36,8 +36,8 @@ Ensure you have the following installed locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vpc-peering-terraform.git
-   cd vpc-peering-terraform
+   git clone https://github.com/namesarnav/VPC-Peering-using-terraform.git
+   cd VPC-Peering-using-terraform.git
    ```
 
 2. **Update Variables**:
