@@ -1,7 +1,7 @@
 
 ![VPC-A](https://github.com/user-attachments/assets/8105a75e-7462-408f-a0f5-7905248b27c1)
 
-# AWS VPC Peering Connection with Bastion Host
+# AWS VPC Peering Connection using Terraform
 
 This Terraform project automates the creation of two Virtual Private Clouds (VPCs) and establishes a VPC Peering Connection between them. The project also provisions a bastion host in a public subnet, which allows secure SSH access to private instances in both VPCs. This architecture ensures efficient, secure communication between VPC resources while adhering to best practices for cloud networking and security.
 
